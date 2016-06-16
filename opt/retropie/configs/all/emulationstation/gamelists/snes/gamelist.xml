@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Dragon Ball Z - Hyper Dimension.smc</path>
+		<name>Dragon Ball Z - Hyper Dimension</name>
+		<playcount>1</playcount>
+		<lastplayed>20160607T190305</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario World (USA).sfc</path>
+		<name>Super Mario World (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20160607T190524</lastplayed>
+	</game>
+</gameList>
