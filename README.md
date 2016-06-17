@@ -1,4 +1,4 @@
-# RetroPie - My Controller configurations
+# RetroPie - My Configurations for controllers and more.
 
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 1, June 2016 
