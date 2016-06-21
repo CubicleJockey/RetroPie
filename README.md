@@ -1,4 +1,4 @@
-# RetroPie - My Configurations for controllers and more.
+# RetroPie - My Configurations for controllers and more. (Raspberry Pi 3)
 
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 1, June 2016 
