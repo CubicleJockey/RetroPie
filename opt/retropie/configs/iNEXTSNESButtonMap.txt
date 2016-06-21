@@ -1,0 +1,11 @@
+iNEXT SNES Retro Controller
+===========================
+
+Y = 4
+X = 1
+B = 3
+A = 2
+L = 5
+R = 6
+Start = 10
+Select = 9
